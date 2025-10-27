@@ -8,6 +8,9 @@ No previous experience with Cell Painting data required, we will get you up to s
 We will work collaboratively by forming mixed teams, solve challenges and learn from each other in a dynamic, hands-on environment. All necessary IT infrastructure will be provided to support your work throughout the event. Finally, we aim to publish the results of the hackathon as BioHackrXiv Preprint [4]
 
 [1] https://doi.org/10.1016/j.isci.2025.112445
+
 [2] https://www.eu-openscreen.eu/services/bioprofiling-assays.html
+
 [3] https://doi.org/10.1038/s41592-024-02241-6
+
 [4] https://osf.io/preprints/biohackrxiv/discover
